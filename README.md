@@ -10,4 +10,3 @@ Execute `ng serve` para um servidor de desenvolvimento. Navegue até `http: // l
 
 # 
 # course-manager
-# course-manager
